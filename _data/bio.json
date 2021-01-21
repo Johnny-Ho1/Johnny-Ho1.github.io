@@ -2,7 +2,7 @@
   "basics": {
     "name": "Johnny Ho",
     "label": "Student",
-    "picture": "https://Johnny-Ho1.github.io/images/Johnny.PNG",
+    "picture": "https://johnny-ho1.github.io/images/Johnny.PNG",
     "email": "johnnyho@hawaii.edu",
     "phone": "808-538-3833",
     "website": "https://Johnny-Ho1.github.io",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "Johnny-Ho1",
-        "url": "http://github.com/Johnny-Ho1"
+        "url": "http://github.com/johnny-ho1"
       },
       {
         "network": "linkedin",
