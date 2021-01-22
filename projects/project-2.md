@@ -12,9 +12,10 @@ labels:
 summary: My first project for ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/ICS111L.PNG">
-<img class="ui medium right floated rounded image" src="../images/ICS111W.PNG">
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/ICS111L.PNG">
+  <img class="ui image" src="../images/ICS111W.PNG">
+</div>
 
 
 ## My Project
