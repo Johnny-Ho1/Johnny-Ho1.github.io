@@ -15,6 +15,8 @@ summary: My first project for ICS 111.
 <img class="ui medium right floated rounded image" src="../images/ICS111L.PNG">
 <img class="ui medium right floated rounded image" src="../images/ICS111W.PNG">
 
+
+
 ## My Project
 "Don't Get Banned" is the name of my first project in my ICS 111 class in the Fall 2019 semester. The project helped me learn a lot about classes and object-oriented programming. On top of that, I also got to practice working with third-party software to develop some of the features of this game (Audacity and GIMP), which will help me in the future if I ever use those applications again. For this class, we used a variation of Java called EZ.java developed by the programmers at UH to make learning Java a little easier. Although this version of java is a lot different compared to regular Java, I still learned a lot about the fundamentals of coding from this course. This project means a lot to me because this project revolved around game development, which is something that I am interested in working with in the future. I had a lot of fun working on this project and was content with the final product.
 
