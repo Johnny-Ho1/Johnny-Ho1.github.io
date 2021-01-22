@@ -11,7 +11,7 @@ labels:
 summary: A table I had to help design in my engineering class in high school.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Table.PNG">
+<img class="ui medium right floated rounded image" src="../images/Table.PNG">
 
 At my high school, I was in the engineering department and decided to TA for the "Engineering Tech II" class for my senior year. Along with two other TAs, the teacher had assigned us to measure and design a bench similar to the picture above for the school as a year-long project. We had to reference the picnic tables that the school already had posted around and measured each part individually.
 
