@@ -12,10 +12,10 @@ labels:
 summary: My first project for ICS 111.
 ---
 
-<div class="ui small rounded images">
+
   <img class="ui image" src="../images/ICS111L.PNG">
   <img class="ui image" src="../images/ICS111W.PNG">
-</div>
+
 
 
 ## My Project
