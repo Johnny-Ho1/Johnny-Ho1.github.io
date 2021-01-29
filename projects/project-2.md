@@ -13,7 +13,7 @@ summary: My first project for ICS 111.
 ---
 
 
-  <img class="ui image" src="../images/ICS111L.PNG">
+  <img width="900px" height="200px" src="../images/ICS111L.PNG">
   <img class="ui image" src="../images/ICS111W.PNG">
 
 
