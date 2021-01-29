@@ -15,14 +15,11 @@ summary: This is the project I submitted when I took AP computer science princip
 AP Computer Science Principles is an Advanced Placement course that teaches students about how computers function and basic coding. My high school did not offer regular AP Computer Science so I opted to take this course instead to "jumpstart" my coding career. We learned about how logic ran through computers, computer parts, and eventually how to code. My teacher used code.org as the platform to teach us all the material that was required by the AP course. This AP course required all students to submit a unqiue final project using the coding skills they learned that was worth half of their AP score. 
 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CodeOrg.PNG">
-  <img class="ui image" src="../images/CodeOrgPlay.PNG">
-  <img class="ui image" src="../images/CodeOrgSeahorse.PNG">
-  <img class="ui image" src="../images/CodeOrgW.PNG">
-  <img class="ui image" src="../images/CodeOrgL.PNG">
-</div>
-
+<img width="450px" height="450px" src="../images/CodeOrg.PNG">
+<img width="450px" height="450px" src="../images/CodeOrgPlay.PNG">
+<img width="450px" height="450px" src="../images/CodeOrgSeahorse.PNG">
+<img width="450px" height="450px" src="../images/CodeOrgW.PNG">
+<img width="450px" height="450px" src="../images/CodeOrgL.PNG">
 
 ## My Project
 For this project, I decided to make an treasure hunting adventure game taking place in the Ala Wai. The pictures above give some illustration of what my code looked like when it was run through code.org. The scenery in the second picture was made using a turtle that drew everything from scratch. The player had to navigate using the arrow keys on the keyboard and had to interact with hidden objects on the screen using the mouse. Some interactions would be helpful, giving hints as to where the treasure was. Other interactions would be disastrous, injuring the player and depleting the player's HP bar. Once the player found the treasure, they would be taken to the end screen and it would show the amount of items they had collected while hunting and the amount of tries it took them to beat the game.
